@@ -1,4 +1,4 @@
-#Assignment Details
+# Assignment Details
 - In this repository we have sample application code and dockerfile for 3 micro-services to get you started for excersice is  CI/CD pipeline.
 - **Each micro-services build should be seprated from other** 
 
@@ -19,6 +19,8 @@
   - Image build 
   - Push image
   - Deploy image
+
+As part of assignment create required K8s manifests as well.
 
 Referance links:-
 - https://blog.searce.com/micro-service-specific-build-in-monorepo-google-cloud-build-3c1be8edf4c
