@@ -14,6 +14,6 @@
     - As this is live environment, key requirenment for this phase id zero-down time deployments. 
 
 - Primary phases for deploying application
- - Image build 
- - Push image
- - Deploy image
+  - Image build 
+  - Push image
+  - Deploy image
