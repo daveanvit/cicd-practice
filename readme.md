@@ -18,3 +18,9 @@
   - Image build 
   - Push image
   - Deploy image
+
+Referance links:-
+https://blog.searce.com/micro-service-specific-build-in-monorepo-google-cloud-build-3c1be8edf4c
+https://cloud.google.com/run/docs/tutorials/configure-deployment-previews
+https://cloud.google.com/architecture/accessing-private-gke-clusters-with-cloud-build-private-pools
+https://cloud.google.com/build/docs/overview
