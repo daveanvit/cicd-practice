@@ -13,7 +13,7 @@
     - In this phase the application will be deployed to production cluster.
     - As this is live environment, key requirenment for this phase id zero-down time deployments. 
 
-* Primary phases for deploying application
+- Primary phases for deploying application
  - Image build 
  - Push image
  - Deploy image
